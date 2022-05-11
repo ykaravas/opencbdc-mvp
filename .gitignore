@@ -1,3 +1,7 @@
 .DS_Store
 .pytest_cache/
 .vscode/
+opencbdc_mvp.egg-info/
+dist/
+build/
+**/__pycache__/**

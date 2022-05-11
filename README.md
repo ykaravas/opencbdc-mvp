@@ -1,3 +1,10 @@
+# Setup
+
+From the root project directory, run the following commands:
+
+pip install -r requirements.txt
+python setupy.py install --user
+
 # OpenCBDC - (very) Minimal Viable Product
 A simplified implementation of [OpenCBDC](https://github.com/mit-dci/opencbdc-tx) for learning and experimentation. We left out all the complex distributed application pieces
 to focus on the basics of how it works.
